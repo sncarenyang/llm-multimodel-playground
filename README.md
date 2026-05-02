@@ -3,6 +3,13 @@
 
 Interactive CLI chatbot supporting **Google Gemini** and **OpenAI**.
 
+## 🧪 Version
+
+This is a CLI-based prototype version of the LLM system.
+For the full web UI version, see another repo:
+
+👉 llm-chatbot-ui 
+
 ## 🚀 Features
 - Interactive user input
 - Multi-model support
